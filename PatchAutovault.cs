@@ -2,7 +2,7 @@
 using EFT;
 using SPT.Reflection.Patching;
 using System.Reflection;
-using static GClass960;
+using static GClass1040;
 
 namespace StopHotkeyAutoVault
 {
@@ -20,7 +20,7 @@ namespace StopHotkeyAutoVault
 			}
 
 			____vaultingTiming = 0f;
-			__instance.method_14();
+			__instance.method_12();
 
 			//Skip original method
 			return false;
