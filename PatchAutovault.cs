@@ -2,7 +2,7 @@
 using EFT;
 using SPT.Reflection.Patching;
 using System.Reflection;
-using static GClass1040;
+using static GClass1053;
 
 namespace StopHotkeyAutoVault
 {
